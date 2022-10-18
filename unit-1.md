@@ -33,6 +33,7 @@
 1. What are the professionalism conflicts in this scenario?
 - Students: 
   - Intrusive of others space
+  - Representation of lab -- both from individual and group perspectivve
   - Not encouraging collaborative environment outside research  
 - Postdoc
   - Not encouraging collaboration within
