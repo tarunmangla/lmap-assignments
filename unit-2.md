@@ -27,5 +27,5 @@ Three components for intrinsic motivation
 
 6. As a leader, how can you express authentic identity and challenge leadership stereotypes?
 - Active listening 
-- No judgements/Being open
-- Inspiration through practice
+- Inspiration through self-practice
+- Making yourself available 
