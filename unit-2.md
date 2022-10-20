@@ -29,3 +29,7 @@ Three components for intrinsic motivation
 - Active listening 
 - Inspiration through self-practice
 - Making yourself available 
+
+
+Leadership is like a potluck
+- Bring what you have and trust that is enough
