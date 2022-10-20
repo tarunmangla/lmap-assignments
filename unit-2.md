@@ -33,3 +33,11 @@ Three components for intrinsic motivation
 
 Leadership is like a potluck
 - Bring what you have and trust that is enough
+
+
+Clarity is kindness -- best gift 
+- As leaders if we set the expectations right; 
+
+
+
+
