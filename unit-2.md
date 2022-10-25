@@ -5,6 +5,13 @@ Three components for intrinsic motivation
 2. Competence – a feeling of confidence in one’s own abilities
 3. Relatedness – a sense of belonging, that this work provides value to others
 
+**Active Listening**
+Ask the right questions.
+1. Diagnostic inquiry – evaluative questions, designed to steer the other person’s thinking in a particular direction and to evaluate the content of the answer
+2. Confrontational inquiry – inserting one’s own perspective into the question, when the person asking their ques- tion inserts their own opinion into the question itself
+3. Process-oriented inquiry – shifting the conversation to the conversation itself, an opportunity to ask if this conversation is the right type of conversation for this particular issue and including both parties in the process of deciding this
+4. Humble inquiry – questions based in pure curiosity, accessing one’s own ignorance and actively removing bias from the question to gather as much knowledge from the other person as possible.
+
 
 
 1. What are the different types of power and how can they be used effectively?
@@ -39,5 +46,72 @@ Clarity is kindness -- best gift
 - As leaders if we set the expectations right; 
 
 
+## Situation 1: The Postdoc Perspective
+1. Identify the power dynamics, conflict, and ideal outcome in this situation.
+
+Power dynamics: Doc Ada is the legitimate authority as she funds the postdoc. 
+Conflict: Doc Ada may not be supportive of postdoc's choice. 
+She may have hired the postdoc for a specific grant but now the postdoc wants to work on something else
+Ideal outcome: Postdoc gets to work on clinical counseling and gets some mentorship from Doc Ada. 
 
 
+2. How could you use active listening or asking the right questions to understand another person’s perspective?
+- Humble inquiry into why clinical counseling is not encouraged in the group
+
+3. How could you enact influence through expert or referent power to achieve the ideal outcome?
+- Referent power. Form a meaningful connection with Doc Ada or Howie Walker. 
+
+
+### Student perspective
+1. Identify the power dynamics, conflict, and ideal outcome in this situation.
+- Power dynamics: Postdoc has a little high authority
+- Conflict: Don't want postdoc to steamroll the ideas
+- Ideal outcome: Postdoc listens to the student
+
+2. How could you use active listening or asking the right questions to understand another person’s perspective?
+- Ask if the process is going smooth. Check if that is the right way for the student to work. 
+
+3. How could you enact influence through expert or referent power to achieve the ideal outcome?
+- Share project directions in a group to get everyone on the same page. 
+
+
+## Kripke
+
+### Student perspective
+1. Identify the power dynamics, conflict, and ideal outcome in this situation.
+- Power dynamics: Professor exerts a legitimate authority. Students are independent.
+- Conflict: Suggesting a work style different from the professor's work style
+- Outcome: Students work together
+
+2. How could you use active listening or asking the right questions to understand another person’s perspective?
+- Process-oriented enquiry: Ask the other student if that is how really the process should be? 
+
+3. How could you enact influence through expert or referent power to achieve the ideal outcome?
+- Make a meaningful relationship with the student
+
+
+### Student perspective 2
+1. Identify the power dynamics, conflict, and ideal outcome in this situation.
+Power dynamics: Kripke has authority. 
+Conflict: Postdoc and students results are different from yours and there might be a case of academic dishonesty/fraud. Conflicted on how to report it. 
+Ideal outcome: Kripke follows up with postdoc and student about their results
+
+2. How could you use active listening or asking the right questions to understand another person’s perspective?
+- Explain about your results 
+
+3. How could you enact influence through expert or referent power to achieve the ideal outcome?
+- Explain about the process
+
+
+
+- What key ideas resonated with me most strongly during this unit?
+- Active listening, Asking questions, Intrinsic motivation
+
+- How do these ideas relate to my daily work? How can I begin to put some of these ideas into practice?
+- Asking more process-oriented, diagnostic, and humble inquries. 
+  - Why did you land at this problem?
+  - What do you mean by this?
+  - How do you think you will achieve this?
+
+
+  
