@@ -56,10 +56,13 @@ Ideal outcome: Postdoc gets to work on clinical counseling and gets some mentors
 
 
 2. How could you use active listening or asking the right questions to understand another person’s perspective?
-- Humble inquiry into why clinical counseling is not encouraged in the group
+- Humble inquiry: 
+  - Express feelings to the lab manager
+  - And then PI
+  - If not, why clinical counseling is not encouraged in the group
 
 3. How could you enact influence through expert or referent power to achieve the ideal outcome?
-- Referent power. Form a meaningful connection with Doc Ada or Howie Walker. 
+- Lab manager has the referent power. Form a meaningful connection with Doc Ada / Howie Walker. Make a working relationship/befriend them. 
 
 
 ### Student perspective
