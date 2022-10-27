@@ -54,6 +54,10 @@ Conflict: Doc Ada may not be supportive of postdoc's choice.
 She may have hired the postdoc for a specific grant but now the postdoc wants to work on something else
 Ideal outcome: Postdoc gets to work on clinical counseling and gets some mentorship from Doc Ada. 
 
+- Limiting belief
+- Ask Howey 
+
+
 
 2. How could you use active listening or asking the right questions to understand another person’s perspective?
 - Humble inquiry: 
