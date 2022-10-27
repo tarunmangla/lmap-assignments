@@ -2,6 +2,6 @@ Week 2
 
 Homework:
 
-Unit 2 - Pg 23-28
+Unit 3 - Pg 38-42
 
-Unit 3: Prework 34-38
+Unit 4: Prework 34-38
