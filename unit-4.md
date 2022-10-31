@@ -15,6 +15,9 @@ that one party may give something up for the other.
 5. Accommodating – one party is more concerned with other than self, and may give up more than the other party.
 
 
+One way to facilitate trust that leads to psychological safety is through an enhanced understanding of conversational intelligence (Glaser, 2016). Conversational intelligence refers to the quality of discussion among individuals. In teams, personal goals and team goals can conflict, and often, individuals are focused on preserving their own perspectives and opinions. When one person confronts another, and the perspectives clash, this can lead to a rise in cortisol, a stress hormone related to the flight-or-fight response. To reduce cortisol and to have more productive discussions that are inclusive of diverse perspectives, it is important to build skills for “dialoguing” (Bohm and Weinburg, 2004). Dialogue is a form of free-flowing conversation in which individuals seek to understand other points of view, instead of focusing on defending their own position.
+
+
 Team formation phase:
 1. Forming Phase – This is the stage when teams form and get to know each other. Team members set goals, learn about each other’s personalities and working styles, and organize plans. During this phase, leaders assign tasks and responsibilities, and ideally, solicit feedback from the group.
 2. Storming Phase – During the storming phase, interpersonal challenges arise and conflicts occur. When teams do not fully know how to work together, miscommunications happen, and unforeseen personality misalignments can occur. Team members are also discovering their differences and can feel ostracized through subtle acts of exclusion, such as through microaggressions (Hu-Chan 2020). Conflicts can also occur from misaligned expectations, or setting unrealistic goals that impact performance. Team performance usually takes a dip during this phase until these issues get addressed.
