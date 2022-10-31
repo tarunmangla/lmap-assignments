@@ -21,3 +21,41 @@ Over a conflict
 
 4. How can you best prepare yourself to negotiate with your advisor and/or other research group members?
 Identify shared interests. Understand their perspective. Increase trust. 
+
+
+## Case Study 1
+1. Identify your interests and your PI’s interests in this situation.
+- PI: Publicity of the work; Get feedback about the work
+- Your Interest: Networking, Visibility in the community, experience, travel opportunity
+
+2. What are the distributive and integrative issues?
+Distributive: Limited funds
+Integrative: Postdoc is not interested. so that student can go.
+
+3. Situation 1: The Graduate Student Perspective
+Start by saying that I want to attend the conference. And give a background about what you have worked on.
+
+## Case study 2
+1. Identify your interests and your PI’s interests in this situation.
+PI: Get the work done
+- Your interest: get to work on a new device, diversify research, leadership opportunity
+
+2. What are the distributive and integrative issues?
+Distributive: Only one person gets to lead the project
+Integrative: May be both of them do not have the bandwidth to lead. 
+
+3. How will you start the conversation?
+Tell him that this is not going to help in his job market. Anyway you will be busy. Happy to collaborate once you start your own lab?
+
+## Case study 3
+1. Identify your interests and your PI’s interests in this situation.
+- PI: Simply wants to send two students and use the grant money
+- Your interest: Professional development
+
+2. What are the distributive and integrative issues?
+Distributive: 4 students and grant money only for two
+
+3. How will you start the conversation?
+Say you want to go; but happy to discuss it. Understand people's motivation of why they want to go and then take a joint call. Perhaps negotiative that whoever is not going now can go for a future event.
+
+
