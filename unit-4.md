@@ -48,3 +48,51 @@ Have people with different roles in a team. Ensure psychological safety in the t
 
 6. What is the value of conflict on scientific research teams?
 It can help question the assumptions; diversity; new ideas; facilitate discussion etc. 
+
+
+
+## Case Study 1
+Q1. Identify the team goal and the conflict in this situation.
+- Team goal: Project success; read fmri scans
+- Conflict: Student is not that expressive. Other students ignore
+
+Q2. Which team role (or roles) should you play to reach the goal?
+- Results-oriented; Relationship-oriented; Make Wang Jin comfortable with the group
+
+Q3. Which conflict style should you use?
+- Collaborative
+
+Q4. How will you start the conversation?
+- Bring this up with the group; we should listen to each other?
+
+## Case Study 2: Organize Social Hours
+Q1. Identify the team goal and the conflict in this situation.
+- Team goal: Organize socials
+- Conflict: Different preferences
+
+Q2. Which team role (or roles) should you play to reach the goal?
+- Results-oriented; Process-oriented
+
+Q3. Which conflict style should you use?
+- Compromising
+
+Q4. How will you start the conversation?
+- Indicate that scheduling is a trade-off. Someone has to compromise. 
+  Share a whenisgood.
+ 
+## Case Study 3: 
+1. Identify the team goal and the conflict in this situation.
+- Goal: Implement ideas to improve group efficacy
+- Conflict: Ideas never get implemented. No one listens to the board chair
+
+2. Which team role (or roles) should you play to reach the goal?
+-  Process and rule followers
+
+3. Which conflict style should you use?
+- Collaborative; Competing
+
+4. How will you start the conversation?
+- Discuss the processes to make the meetings more effective. Write them down and make sure people follow them 
+
+
+Unit 5
